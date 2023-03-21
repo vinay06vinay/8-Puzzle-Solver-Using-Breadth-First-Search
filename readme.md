@@ -1,3 +1,5 @@
+## Introduction:
+A Breadth First Search Algorithm Designed to solve a 8 Puzzle problem given a start and goal node.
 ## Instructions to Run the Code : 
 
 1. From the extracted zip file, take out the "vinay06_Project1.py" file and open through VSCODE or Spyder or Command Line
